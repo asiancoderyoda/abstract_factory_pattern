@@ -1,5 +1,5 @@
 export interface IGameArtifects {
-    name: string;
-    move(): void;
-    attack(): void; 
+  name: string;
+  move(): void;
+  attack(): void;
 }
